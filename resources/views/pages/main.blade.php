@@ -1,4 +1,5 @@
 @extends('welcome')
+@section('title', 'Trang chủ')
 @section('main')
 <div class="features_items">
     <!--features_items-->
